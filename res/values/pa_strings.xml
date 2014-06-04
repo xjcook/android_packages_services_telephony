@@ -21,6 +21,9 @@
     <string name="national_roaming_enable">Connect to data services when nationally roaming</string>
     <!-- Mobile network settings screen, setting summary text when check box is clear -->
     <string name="national_roaming_disable">Do not connect to data services when nationally roaming</string>
+    <!-- Battery Saver -->
+    <string name="battery_mode">Battery saving mode</string>
+    <string name="battery_mode_label">Set network to 2G when device is locked</string>
 
     <!-- Number lookup -->
     <string name="number_lookup">Phone number lookup</string>
